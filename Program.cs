@@ -39,9 +39,9 @@ namespace VariablesCS
 
             var product = secondOperand * firstOperand;
 
-            var quotient = firstOperand / secondOperand;
+            var quotient = secondOperand / firstOperand;
 
-            var remainder = firstOperand % secondOperand;
+            var remainder = secondOperand % firstOperand;
 
             Console.WriteLine($"{name} provided the inputs of {firstOperand} and {secondOperand}");
 
