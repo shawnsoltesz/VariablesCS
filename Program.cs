@@ -6,7 +6,6 @@ namespace VariablesCS
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Welcome to C#");
 
             var numberOfCupsOfCoffee = 2;
             var fullName = "Shawn Soltesz";
